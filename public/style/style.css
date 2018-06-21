@@ -1,0 +1,61 @@
+@media screen and (max-width: 750px) {
+  ul {
+    margin: 20px 0 0 0 !important;
+  }
+  .video-detail {
+    margin: 20px 0 0 0;
+  }
+  .container-searchbar {
+    text-align: center;
+  }
+}
+
+li:hover {
+  background-color: #ddd;
+}
+
+.logo {
+  height: 30px;
+  width: 90px;
+  margin: 0 20px;
+}
+
+.container-searchbar {
+  padding: 15px;
+  border-bottom: solid;
+  border-width: thin;
+  margin: 20px;
+  border-color: #ddd;
+}
+
+.searchbar {
+  position: relative;
+  display: inline-block;
+  width: 500px;
+  border-width: 1px;
+}
+
+.details {
+  border-style: solid;
+  border-radius: 3px;
+  border-width: thin;
+  margin: 20px 0 0 0;
+  font-size: 1rem;
+  border-color: #ddd;
+}
+
+.media-heading {
+  font-size: 0.8rem;
+}
+
+.media-title {
+  border-bottom: solid;
+  border-width: thin;
+  padding: 10px;
+  border-color: #ddd;
+}
+
+.media-description {
+  padding: 10px;
+  font-size: 0.8rem;
+}
